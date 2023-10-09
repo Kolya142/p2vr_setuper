@@ -9,6 +9,7 @@ command line args: install_remove.cmd [u,i]
 
 
 ## install
+edit portal2 path in [install_remove.cmd,run.bat]
 run "update_mod.cmd"
 ## usage
 run "run.bat" and select mode [vr, non-vr]
