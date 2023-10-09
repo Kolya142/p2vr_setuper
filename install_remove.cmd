@@ -1,7 +1,6 @@
 @ECHO OFF
 
 set p2=E:\SteamLibrary\steamapps\common\Portal 2
-dir
 
 :choice
 
